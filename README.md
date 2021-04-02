@@ -1,0 +1,1 @@
+# arulfx.forex.heatmap
